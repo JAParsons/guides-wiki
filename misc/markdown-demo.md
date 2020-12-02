@@ -1,13 +1,11 @@
 ---
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
+title: markdown-demo
+description: 
+published: true
+date: 2020-12-02T09:23:26.681Z
+tags: demo, misc, markdown
+editor: markdown
+dateCreated: 2020-12-01T20:48:25.894Z
 ---
 
 # h1 Heading 8-)
