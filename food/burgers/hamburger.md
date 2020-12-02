@@ -1,3 +1,13 @@
+---
+title: hamburger
+description: 
+published: true
+date: 2020-12-02T09:25:04.712Z
+tags: food, burger
+editor: markdown
+dateCreated: 2020-12-01T20:44:32.826Z
+---
+
 # Hamburger
 
 A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or a "special sauce", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.
